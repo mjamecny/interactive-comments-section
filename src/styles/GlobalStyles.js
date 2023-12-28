@@ -30,7 +30,6 @@ body {
   font-family: "Rubik", sans-serif;
   color: var(--color-grayish-blue);
   line-height: 1.5;
-  font-size: 1.6rem;
 }
 
 input,

@@ -9,6 +9,7 @@ const StyledMessageInput = styled.textarea`
   padding: 0.8rem 1.6rem;
   color: var(--color-dark-blue);
   grid-column: 1 / -1;
+  font-size: 1.6rem;
 
   &:focus {
     outline: 2px solid var(--color-dark-blue);

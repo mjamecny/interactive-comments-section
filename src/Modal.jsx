@@ -19,11 +19,14 @@ const StyledModal = styled.div`
 `
 
 const Heading = styled.h2`
+  font-size: 2.4rem;
   font-weight: 500;
   color: var(--color-dark-blue);
 `
 
-const Text = styled.p``
+const Text = styled.p`
+  font-size: 1.8rem;
+`
 
 const ButtonContainer = styled.div`
   display: flex;
@@ -36,6 +39,7 @@ const Button = styled.button`
   text-transform: uppercase;
   border: none;
   border-radius: 8px;
+  font-size: 1.8rem;
   font-weight: 500;
   background-color: ${({ color }) => color};
   color: var(--color-white);

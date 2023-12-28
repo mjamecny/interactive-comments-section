@@ -58,6 +58,7 @@ const CreatedAt = styled.p`
 
 const Content = styled.p`
   grid-column: 1 / -1;
+  font-size: 1.6rem;
 
   @media (min-width: 768px) {
     grid-column: 2 / -1;
