@@ -39,7 +39,7 @@ const Avatar = styled.img`
   width: 44px;
 `
 const Username = styled.p`
-  font-size: 1.8rem;
+  font-size: 1.6rem;
   font-weight: 500;
   color: var(--color-dark-blue);
 `
@@ -54,7 +54,7 @@ const Tag = styled.p`
 `
 
 const CreatedAt = styled.p`
-  font-size: 1.8rem;
+  font-size: 1.6rem;
 `
 
 const Content = styled.p`

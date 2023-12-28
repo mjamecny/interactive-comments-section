@@ -22,7 +22,7 @@ const Icon = styled.img``
 
 const Text = styled.p`
   font-weight: 500;
-  font-size: 1.8rem;
+  font-size: 1.6rem;
   color: var(${({ color }) => color});
 `
 

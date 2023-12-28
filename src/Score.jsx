@@ -28,7 +28,7 @@ const Icon = styled.img`
 `
 
 const ScoreNum = styled.p`
-  font-size: 1.8rem;
+  font-size: 1.6rem;
   font-weight: 500;
   color: var(--color-moderate-blue);
 `
